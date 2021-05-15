@@ -28,3 +28,4 @@ This repo contains the following files/folder:
 - Dataset_main.csv: all stock data
 - AUTOARIMA_result.csv: prediction result of auto arima
 - ANN_model.h5: saved ANN model
+- Algorithm Comparison in Stock Price Prediction.pdf: our experiment report
